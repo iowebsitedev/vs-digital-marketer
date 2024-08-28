@@ -1,3 +1,4 @@
+import { Header } from "./components/Header";
 import { HeroSectionLeft } from "./components/HeroSectionLeft";
 import { HeroSectionRight } from "./components/HeroSectionRight";
 import "./styles/font-size-class_link.css";
@@ -5,6 +6,7 @@ import "./styles/general.css";
 function App() {
   return (
     <>
+      <Header />
       <div className="container-fluid row px-2 px-sm-0 mx-0">
         <div className="container-fluid col-sm-7 col-12">
           <HeroSectionLeft />
