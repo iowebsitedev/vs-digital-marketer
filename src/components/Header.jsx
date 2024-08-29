@@ -17,9 +17,6 @@ export function Header() {
                                 <a class="nav-link" href="#">About Me</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Contact</a>
-                            </li>
-                            <li class="nav-item">
                                 <a class="nav-link" href="#">Privacy Policy</a>
                             </li>
                         </ul>

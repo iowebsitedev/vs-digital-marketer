@@ -21,8 +21,8 @@ export function Footer() {
                 </div>
 
                 <div className=" col-12 col-lg-10 d-flex fs-12 fs-md-16 justify-content-center text-white text-center pt-3 ">
-                    <div className=" container-fluid "> <a className="text-white" href="#"> About Me</a> </div>
-                    <div className=" container-fluid"> <a className="text-white" href="#"> Contact</a> </div>
+                    <div className=" container-fluid "> <a className="text-white" href="#"> Home</a> </div>
+                    <div className=" container-fluid"> <a className="text-white" href="#"> About Me</a> </div>
                     <div className=" container-fluid"> <a className="text-white" href="#"> Privacy Policy</a> </div>
                 </div>
                 <div className=" col-12 col-lg-10 fs-12 fs-md-16 d-flex justify-content-center text-white text-center pt-3 pb-5">
