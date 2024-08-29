@@ -20,7 +20,7 @@ export function Footer() {
                 <div className=" col-12 col-lg-10 fs-12 fs-md-16 d-flex justify-content-center text-white text-center pt-3">
                     <div className=" container-fluid px-1"> Mehrun Jalgaon </div>
                     <div className=" container-fluid">Digital Marketer </div>
-                    <div className=" container-fluid px-1 ">vaibhav@gmail.com</div>
+                    <div className=" container-fluid px-1 text-break ">vaibhavsonawanejalgaon@gmail.com</div>
                 </div>
 
                 <div className=" col-12 col-lg-10 d-flex fs-12 fs-md-16 justify-content-center text-white text-center pt-3 ">
