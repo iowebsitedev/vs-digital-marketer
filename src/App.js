@@ -2,8 +2,10 @@ import { Footer } from "./components/Footer";
 import { Header } from "./components/Header";
 import { HeroSectionLeft } from "./components/HeroSectionLeft";
 import { HeroSectionRight } from "./components/HeroSectionRight";
+import Services from "./components/Services";
 import "./styles/font-size-class_link.css";
 import "./styles/general.css";
+
 function App() {
   return (
     <>
@@ -19,7 +21,7 @@ function App() {
       <div className="container-fluid fs-20 fs-md-32 col-10 mt-3 px-3 d-flex d-xl-none justify-content-center montserrat">
         Harness advanced tools and strategies to amplify your brand's presence, captivate your audience, and rise above the noise in a crowded digital landscape.
       </div>
-
+      <Services />
       <Footer />
     </>
   );
