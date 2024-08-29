@@ -24,7 +24,7 @@ export function Header() {
                             </li>
                         </ul>
                         <span class="navbar-text px-lg-3">
-                            vaibhavsonawane@gmail.com
+                            vaibhav@gmail.com
                         </span>
                     </div>
                 </div>

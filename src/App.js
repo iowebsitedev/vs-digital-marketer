@@ -1,3 +1,4 @@
+import { Footer } from "./components/Footer";
 import { Header } from "./components/Header";
 import { HeroSectionLeft } from "./components/HeroSectionLeft";
 import { HeroSectionRight } from "./components/HeroSectionRight";
@@ -19,6 +20,7 @@ function App() {
         Harness advanced tools and strategies to amplify your brand's presence, captivate your audience, and rise above the noise in a crowded digital landscape.
       </div>
 
+      <Footer />
     </>
   );
 }
