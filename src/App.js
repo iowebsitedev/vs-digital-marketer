@@ -18,7 +18,7 @@ function App() {
           <HeroSectionRight />
         </div>
       </div>
-      <div className="container-fluid fs-20 fs-md-32 col-10 mt-3 px-3 d-flex d-xl-none justify-content-center montserrat">
+      <div className="container-fluid fs-20 fs-md-32 col-10 mt-5 px-3 d-flex d-xl-none justify-content-center montserrat">
         Harness advanced tools and strategies to amplify your brand's presence, captivate your audience, and rise above the noise in a crowded digital landscape.
       </div>
       <Services />
