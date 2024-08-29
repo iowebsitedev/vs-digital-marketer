@@ -11,7 +11,7 @@ export function HeroSectionRight() {
                 <ul className="list-group list-group-flush montserrat fs-xl-24 fs-lg-20 fs-md-16 fs-14">
                     <li className="list-group-item py-3 py-md-4 bg-blue list-border"><img className="img-fluid pe-lg-3 pe-2" src={Bulleeye} alt="" />Clear Objectives and Goals</li>
                     <li className="list-group-item py-3 py-md-4 bg-blue list-border"><img className="img-fluid pe-lg-3 pe-2" src={PieChart} alt="" />Data Collection and Integration</li>
-                    <li className="list-group-item py-3 py-md-4 bg-blue list-border"><img className="img-fluid pe-lg-3 pe-2" src={Journal} alt="" />Market Segmentatiion & Targeting</li>
+                    <li className="list-group-item py-3 py-md-4 bg-blue list-border"><img className="img-fluid pe-lg-3 pe-2" src={Journal} alt="" />Market Segmentation & Targeting</li>
                 </ul>
             </div>
 

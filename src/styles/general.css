@@ -11,6 +11,11 @@ body,
     font-family: "Montserrat";
 }
 
+#root {
+    display: flex;
+    flex-direction: column;
+}
+
 .montserrat {
     font-family: "Montserrat";
 }
